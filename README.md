@@ -4,8 +4,9 @@
 **Author:** Austin Jacobs  
 **Independent Researcher**  
 **Version:** 1.1 (December 2025)  
-**DOI:** [10.5281/zenodo.17835023](https://doi.org/10.5281/zenodo.17835023)
-**License:** CC BY-NC-ND 4.0  
+**DOI:** [10.5281/zenodo.17835024](https://doi.org/10.5281/zenodo.17835024)  
+**License:** CC BY-NC-ND 4.0
+
 
 ---
 
