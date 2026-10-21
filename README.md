@@ -4,7 +4,7 @@
 **Author:** Austin Jacobs  
 **Independent Researcher**  
 **Version:** 1.1 (December 2025)  
-**DOI:** [10.5281/zenodo.17835024](https://doi.org/10.5281/zenodo.17835024)
+**DOI:** [10.5281/zenodo.17835023](https://doi.org/10.5281/zenodo.17835023)
 **License:** CC BY-NC-ND 4.0  
 
 ---
@@ -32,7 +32,7 @@ This paper introduces Path C: Externally Governed Statelessness, a third archite
 ## Citation
 If you cite or build upon this framework, please use:
 
-> Jacobs, Austin. (2025). Path C: Externally Governed Statelessness: A Structural Architecture for Safe Non-Agentic Intelligence (Version 1.1). Zenodo. https://doi.org/10.5281/zenodo.17835024
+> Jacobs, Austin. (2025). Path C: Externally Governed Statelessness: A Structural Architecture for Safe Non-Agentic Intelligence (Version 1.1). Zenodo. https://doi.org/10.5281/zenodo.17835023
 
 ---
 
